@@ -1,4 +1,4 @@
-{"version_code":451207,"content":"
+{"version_code":451206,"content":"
 <p>تحديث جديد V2.25</p>
 
 <p>تحديث إصلاحي لجميع مشاكل V2.20</p>
