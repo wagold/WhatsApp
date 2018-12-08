@@ -1,47 +1,38 @@
-{"version_code":451206,"content":"
-<p>تحديث جديد V2.25</p>
+{"version_code":451207,"content":"
+<p>تحديث جديد 2.30</p>
 
-<p>تحديث إصلاحي لجميع مشاكل V2.20</p>
-<li> التحديث لنسخة الماركت 2.18.203</li>
-<li> إضافة سجل للرسائل المحذوفة، يمكنك الآن مشاهدة الرسائل التي قام الطرف الآخر بحذفها بأي وقت تشاء (إفتح بروفايل أي محادثة ثم الرسائل المحذوفة)</li>
-<li> إمكانية إخفاء الصور والفيديوهات من الاستوديو مع بقاء إمكانية مشاهداتها عبر تطبيق الواتساب (افتح بروفايل أي محادثة ثم عرض الوسائط)</li>
-<li> إمكانية تغيير ستايل/تصميم الشاشة الرئيسية الخيار رقم (6.23)</li>
-<li> تعديل الخيار رقم 1.1.15 لإمكانية وضع الاسم والصورة في المنتصف وفي اليسار أيضاً</li>
-<li> إمكانية عرض حالتي في الشريط العلوي للشاشة الرئيسية (الخيار رقم 2.1.12)</li>
-<li> إمكانية عرض رقمي بدلاً من حالتي في الشريط العلوي للشاشة الرئيسية (الخيار رقم 2.1.13)</li>
-<li> نقل خيار الرجوع للفيسات القديمة ، خيارات ثم SHMods ثم المزيد من الإعدادات الخيار رقم 6.24</li>
-<li> تفعيل خيار حفظ المحادثة على شكل ملف مضغوط وإمكانية مشاركتها (الخيارات - المزيد - نقل الدردشة)</li>
-<li> تفعيل ميزة تمييز الرسالة كمقروءة من الإشعارات</li>
-<li> تفعيل خيار تحديد الكل للدردشات في الشاشة الرئيسية</li>
-<li> (إمكانية طلب تقرير معلومات حسابك في واتساب وإعداداته وكذلك نقله (إفتح الإعدادات في واتساب - الحساب - طلب معلومات الحساب</li>
-<li> إزالة الخيار رقم 6.8 عرض قائمة الاسماء</li>
-<li> إصلاح خيار تعدد الدردشات (فتح أكثر من محادثة)</li>
-<li> إصلاح مشكلة عدم إظهار إشعار الرسائل المحذوفة في بعض الأجهزة</li>
-<li> إصلاح مشكلة عمل نسخة إحتياطية و إستعادتها من الخيار 6.7</li>
-<li> إصلاح مشكلة مشاركة و إرسال الثيمات</li>
-<li> تحديث اللغات الايطالية والبرتغالية</li>
-<li> [باكج جديد] com.shwa4 لتشغيل رقم رابع من SHWA</li>
-<li> إصلاحات اخرى</li>
+<li> التحديث لنسخة الماركت 2.18.327</li>
+<li> تفعيل ميزة الملصقات يمكنك الآن تنزيل الملصقات المعبرة واستخدامها في الدردشات</li>
+<li> إضافة اشارة في حال قام احد ما بعمل منشن @ لك او رد على رسائلك في المجموعة</li>
+<li> لن تظهر معاد توجيهها عند الطرف الاخر في حال قمت بعمل اعادة توجيه لرسالة ما</li>
+<li> تم تطوير ميزة إيقاف استقبال المكالمات بحيث يمكنك ايقافها بدون ان يظهر للطرف الاخر ان هاتفك يرن وييظهر له جاري الاتصال</li>
+<li> (حصرياً) إضافة الخيار رقم 1.2.2 يمكنك نسخ جزء من اي رسالة بسهولة</li>
+<li> بإمكانك الآن تمرير الرسالة من اليسار إلى اليمين للرد عليها</li>
+<li> تفعيل ميزة حفظ مكان القراءة حيث عند فتح محادثة سابقة توقفت فيها عند كلمة معينة سوف تظهر مباشرة عند الدخول الى المحادثة مرة أخرى</li>
+<li> ‏تفعيل ميزة المكالمات الجماعية</li>
+<li> تفعيل ميزة صورة داخل الصورة</li>
+<li> إضافة الخيار رقم 6.8 لتعيين المدة لإشعار بعد الضغط على الرسائل المحذوفة</li>
+<li> دعم تغيير ثيم قسم الملصقات</li>
+<li> إزالة الحد الأدني لعمل إعادة توجية لمستخدمين دولة الهند</li>
+<li> إصلاح مشكلة ظهور المحادثات المخفية من خلال شاشة المكالمات</li>
+<li> إصلاح مشكلة  الخيار 6.15 صورة مربعة</li>
+<li> إصلاح مشكلة البحث عن الثيمات</li>
+<li> إصلاحات أخرى</li>
 
-<li> New Base Updated to 2.18.203 </li>
-<li> Know Which Messages are Deleted Anytime you want (Go to Contact/Group Profile and Click on Revoked Messages) </li>
-<li> Enabled Media Visibility (Go to Profile - Media Visibility) </li>
-<li> Enabled Change Style / Home Screen Design (Mod 6.23) </li>
-<li> Edit option 1.1.15 for the possibility of placing the Name + Photo in the center and left as well </li>
-<li> Enabled Show My Status in Main Screen (Mod 2.1.12) </li>
-<li> Enabled Show My Number Hide Shows My Status (Mod2.1.13) </li>
-<li> Option to revert the old emoji has been moved to the (Mod 6.24) </li>
-<li> Enabled Mark as Read in Notification.</li>
-<li> Enabled Select All Chats on Main Screen</li>
-<li> Removed Mod 6.8 as Old. </li>
-<li> Fixed MultiChat </li>
-<li> Fixed Header Vibration for Hide Chats</li>
-<li> Fixed Revoke Notification not showing in Few Devices</li>
-<li> Fixed Web Search</li>
-<li> Fixed Backup & Restore (Mod 6.7)</li>
-<li> Fixed Share and Send Theme</li>
-<li> Updated Italian and Portuguese Language</li>
-<li> [New package] com.shwh4 to run 3rd SHWA number </li>
+<li> New Base Updated to 2.18.327</li>
+<li> Enabled Stickers</li>
+<li> Added No More Forward Tag to Opposite Person even if you forward</li>
+<li> Added @mention Icon on Main Screen to easily Know where you are tagged</li>
+<li> Improved Option to Block Calls with/without Showing Ringing to Opp Person.</li>
+<li> Added New Option to Select Part Message (Mod 1.2.2)</li>
+<li> Enabled Swipe To Reply</li>
+<li> Enabled Group Calls</li>
+<li> Increased Forward Limit for Indian Users</li>
+<li> Added Option to Set Duration for Revoked Message Notification (Mod 6.8)</li>
+<li> Added Themed Stickers Tab</li>
+<li> Fixed Hidden Chats Showing in Calls Tab</li>
+<li> Fixed Square Pics</li>
+<li> Fixed Search in Themes</li>
 <li> Many Other Fixes</li>
 
 ","url":"https://dev-ahmad.blogspot.com/2018/10/KingWA.html"
