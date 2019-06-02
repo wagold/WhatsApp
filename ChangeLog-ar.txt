@@ -1,28 +1,19 @@
-{"version_code":451208,"content":"
-<p>تحديث جديد V2.40</p>
+{"version_code":451211,"content":"
+<p>تحديث جديد V2.50</p>
 
-<li> التحديث لنسخة الماركت 2.18.327</li>
-<li> إضافة الخيار 6.23 لتعطيل فتح المحادثات المخفية بعد الضغط على كلمة WhatsApp</li>
-<li> يمكنك ترتيب عرض الرسائل حسب الاقدم او الاحدث بعد عرض الرسائل المرسلة من قبل اي شخص في المجموعة</li>
-<li> إضافة أيقونات جديدة</li>
-<li> إضافة خطوط جديدة للبرنامج</li>
-<li> إضافة نافذة تأكيد عند الاتصال بشخص ما من داخل المجموعة</li>
-<li> إمكانية تثبيت عدد لا محدود من المحادثات</li>
-<li> اصلاح الايقاف الاجباري عند اختيار اكثر من شخص في قائمة الرد التلقائي و الرسائل المجدولة</li>
-<li> اصلاح خيار تغيير اللغة في اصدار اوريو واعلى</li>
-<li> اصلاح ظهور نافذة عرض الرسائل المرسلة بعد الضغط على عرض المزيد في معلومات المجموعة</li>
+<li> نسخة ضد الحظر</li>
+<li> حذف خيار النص التلقائي لتجنب الحظر</li>
+<li> إصلاح مشكلة ظهور عداد الرسائل المخفية</li>
+<li> إصلاح لون الدفعات في شاشة المحادثة</li>
+<li> إصلاح الإنهيار عند فتح محادثة في بعض الأجهزة</li>
 <li> إصلاحات أخرى</li>
 
-<li> New Base Updated to 2.18.327</li>
-<li> Added Option to Disable click on Header for Hidden Chats (Mod 6.23)</li>
-<li> Added Now You can Sort Messages Sent By (Newest/Oldest)</li>
-<li> Added New Launcher Icons</li>
-<li> Added New Fonts</li>
-<li> Added Confirmation Dialog when Call in Group Chat</li>
-<li> Fixed Force Close when Select more than 2 contacts in Auto Reply/Message Scheduler</li>
-<li> Fixed Change App Language in Android Oreo and Pie</li>
-<li> Fixed Showing View Messages sent By when Click on More Contacts in Group Profile</li>
+<li> Anti-Ban</li>
+<li> Delete Auto Text</li>
+<li> Fixed Hidden Chat Count Showing on Main Screen</li>
+<li> Fixed Payments Color in Attach Menu</li>
+<li> Fixed Crash when open chat in some devices</li>
 <li> Many Other Fixes</li>
 
-","url":"https://dev-ahmad.blogspot.com/2018/10/KingWA.html"
+","url":"https://www.modsgold.com/2018/10/KingWA.html"
 }
