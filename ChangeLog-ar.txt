@@ -1,14 +1,14 @@
 {"version_code":451211,"content":"
 <p>تحديث جديد V2.50</p>
 
-<li> نسخة ضد الحظر</li>
+<li> نسخة ضد الحظر [في حال تم حظر رقمك في وقت سابق يجب عمل نسخة احتياطية للدردشات ثم حذف الواتساب وتثبيته من جديد]</li>
 <li> حذف خيار النص التلقائي لتجنب الحظر</li>
 <li> إصلاح مشكلة ظهور عداد الرسائل المخفية</li>
 <li> إصلاح لون الدفعات في شاشة المحادثة</li>
 <li> إصلاح الإنهيار عند فتح محادثة في بعض الأجهزة</li>
 <li> إصلاحات أخرى</li>
 
-<li> Anti-Ban</li>
+<li> Anti-Ban [If you got banned before please take Backup - Uninstall App / Install WAGold v2.70 again]</li>
 <li> Delete Auto Text</li>
 <li> Fixed Hidden Chat Count Showing on Main Screen</li>
 <li> Fixed Payments Color in Attach Menu</li>
