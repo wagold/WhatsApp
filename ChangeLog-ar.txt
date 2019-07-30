@@ -1,18 +1,20 @@
-{"version_code":451212,"content":"
-<p>تحديث جديد V2.50</p>
+{"version_code":451213,"content":"
+<p>تحديث جديد V2.80</p>
 
-<li> نسخة ضد الحظر [في حال تم حظر رقمك في وقت سابق يجب عمل نسخة احتياطية للدردشات ثم حذف الواتساب وتثبيته من جديد]</li>
-<li> حذف خيار النص التلقائي لتجنب الحظر</li>
-<li> إصلاح مشكلة ظهور عداد الرسائل المخفية</li>
-<li> إصلاح لون الدفعات في شاشة المحادثة</li>
-<li> إصلاح الإنهيار عند فتح محادثة في بعض الأجهزة</li>
+<li> تحسينات على شاشة القفل</li>
+<li> تحسينات على شاشة قفل المحادثات المخفية</li>
+<li> تحسينات على البرنامج لتجنب الحظر المؤقت</li>
+<li> تمديد فترة صلاحية النسخة</li>
+<li> إصلاح ظهور إشعار بإنتهاء النسخة بعد 30 يوم</li>
+<li> إصلاح الإنهيار عند الدخول للبرنامج</li>
 <li> إصلاحات أخرى</li>
 
-<li> Anti-Ban [If you got banned before please take Backup - Uninstall App / Install WAGold v2.70 again]</li>
-<li> Delete Auto Text</li>
-<li> Fixed Hidden Chat Count Showing on Main Screen</li>
-<li> Fixed Payments Color in Attach Menu</li>
-<li> Fixed Crash when open chat in some devices</li>
+<li> Improvements to lock screen</li>
+<li> Improvements to the hidden conversation lock screen</li>
+<li> Improvements to anti ban</li>
+<li> Extension of validity for WAGold</li>
+<li> Fixed a 30-day post-expiration notice</li>
+<li> Fixed the bug when you open the WAGold</li>
 <li> Many Other Fixes</li>
 
 ","url":"https://www.modsgold.com/2018/10/KingWA.html"
