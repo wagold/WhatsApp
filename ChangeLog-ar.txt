@@ -1,20 +1,43 @@
-{"version_code":451213,"content":"
-<p>تحديث جديد V2.80</p>
+{"version_code":451214,"content":"
+<p>تحديث جديد V2.90</p>
 
-<li> تحسينات على شاشة القفل</li>
-<li> تحسينات على شاشة قفل المحادثات المخفية</li>
-<li> تحسينات على البرنامج لتجنب الحظر المؤقت</li>
-<li> تمديد فترة صلاحية النسخة</li>
-<li> إصلاح ظهور إشعار بإنتهاء النسخة بعد 30 يوم</li>
-<li> إصلاح الإنهيار عند الدخول للبرنامج</li>
+<li> التحديث لنسخة الماركت 2.19.150</li>
+<li> نسخة ضد الحظر (في حال تم حظر رقمك في وقت سابق يجب عمل نسخة احتياطية للدردشات ثم حذف الواتساب وتثبيته من جديد)</li>
+<li> إظهار الصحين الأزرق فقط بعد الرد (تعليم الرسالة مقروءة بعد الرد!) (SHMods > الخصوصية)، ملاحظة يجب تفعيل إخفاء الصحين الزرقاء أولاً</li>
+<li> إمكانية قفل الواتساب برقم أو نقش أو بصمة، (SHMods > قفل الواتساب)</li>
+<li> إمكانية قفل محادثة مخصصة أو مجموعة مخصصة برقم أو نقش أو بصمة، (ادخل بروفايل الشخص/المجموعة ثم الأمان)</li>
+<li> إمكانية وضع قفل: رقم/نقش/بصمة للمحادثات المخفية</li>
+<li> إمكانية وضع سؤال أمان لفك قفل التطبيق عند نسيان الرقم أو النقش</li>
+<li> إمكانية وضع صورة من الأستوديو كخلفية لشاشة القفل، (SHMods > قفل الواتساب > تفعيل إختيار خلفية لشاشة لقفل)</li>
+<li> إمكانية إختيار من يستطيع الإتصال بك، (SHMods > الخصوصية > من يستطيع الإتصال بي)</li>
+<li> إمكانية إخفاء اسم الشخص داخل محادثة معيّنة، (أدخل صفحة بروفايل الشخص ثم إخفاء اسم الشخص)</li>
+<li> إمكانية وضع صورة من الأستوديو كخلفية للشاشة الرئيسية، (الخيار رقم 1.1.2 > صورة)</li>
+<li> إمكانية معرفة الرسائل المحذوفة (الاسترداد) في المحادثات من خلال علامة (🚫)!، (ملاحظة): يجب تفعيل خيار منع حذف الرسالة، (SHMods > الخصوصية)</li>
+<li> إمكانية معرفة الحالات المحذوفة (🚫 بجانب الوقت)</li>
+<li> ✂️ إمكانية تحويل الفيديوهات الطويلة إلى مقاطع بالطول المسموح للنشر بسهولة على الحالة/الستوري! 🎞️</li>
+<li> إمكانية وضع صورة الشخص خارج الفقاعة، (الخيار رقم 3.4)</li>
+<li> نخب متصل الآن أصبح مخصص لمحادثات معيّنة (أدخل صفحة بروفايل الشخص > إظهار إشعار عندما يصبح متصل الآن)</li>
+<li> نقل خيار الخصوصية لقائمة SHMods</li>
+<li> إعادة ترتيب الخيارات في قائمة SHMods لتصبح بشكل أفضل</li>
 <li> إصلاحات أخرى</li>
 
-<li> Improvements to lock screen</li>
-<li> Improvements to the hidden conversation lock screen</li>
-<li> Improvements to anti ban</li>
-<li> Extension of validity for WAGold</li>
-<li> Fixed a 30-day post-expiration notice</li>
-<li> Fixed the bug when you open the WAGold</li>
+<li> [Added] Option to choose Pin/Pattern/Fingerprint for conversation lock</li>
+<li> [Added] Hide chat change Fingerprint/PIN/Pattern option</li>
+<li> [Added] Calls privacy, select who can call you! (SHMods > Privacy)</li>
+<li> [Added] Show Blue ticks after reply! (mark message as read, only when you reply!) (SHMods > Privacy)</li>
+<li> [Added] Set Recovery question to unlock forgotten PIN/Pattern (Option 6.0.0)</li>
+<li> [Added] Custom Hide name for contact/group (Click on name > Hide contact name)</li>
+<li> [Added] Disable notification while playing voice notes (Option 1.3.10)</li>
+<li> [Added] Switch between old and new emojis (Option 1.3.2)</li>
+<li> [Added] Set Image as background for Home screen! (Option 1.1.2 > photo)</li>
+<li> [Added] Contact Picture Outside message bubble (Options 3.4)!</li>
+<li> [Added] Know which new messages are deleted in chat (🚫)! [Note]: Anti-Delete must be activated (SHMods > Privacy > Anti-Delete messages)</li>
+<li> [Added] Know Deleted Status (🚫 next to time)!</li>
+<li> [Added] Custom Online toast! Enable for specific people (find it in Contact Profile)</li>
+<li> [Added] AStatus Splitter ✂️, Split long videos to 30 seconds parts 🎞️</li>
+<li> [New] SHThemes Store Design</li>
+<li> [New] Emojis</li>
+<li> [ALERT] Anti-Delete for Messages and Status by default (turn off if you want).</li>
 <li> Many Other Fixes</li>
 
 ","url":"https://www.modsgold.com/2018/10/KingWA.html"
