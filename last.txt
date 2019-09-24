@@ -1,1 +1,1 @@
-{'ver1':'3', 'ver2':'00', 'ver3':'\nHi guys\nThis is not an update message but a message to support the site\nPlease enter the site and then click on one ad in order to support the site\nStay tuned\n', 'dli':'https://www.modsgold.com/2018/10/KingWA.html'}
+{'ver1':'2', 'ver2':'90', 'ver3':'\nHi guys\nThis is not an update message but a message to support the site\nPlease enter the site and then click on one ad in order to support the site\nStay tuned\n', 'dli':'https://www.modsgold.com/2018/10/KingWA.html'}
