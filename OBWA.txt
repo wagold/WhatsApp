@@ -1,8 +1,8 @@
 {
   "Gold": {
-    "update_code": "3",
+    "update_code": "2",
     "reminder_time": "1",
-    "update_version": "v44.2",
+    "update_version": "v44.1",
     "com.obwhatsapp": "https://SHMods.com/2020/09/obwhatsapp.html",
     "com.ob2whatsapp": "https://SHMods.com/2020/09/obwhatsapp.html",
     "com.ob3whatsapp": "https://SHMods.com/2020/09/obwhatsapp.html",
