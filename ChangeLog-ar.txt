@@ -1,5 +1,14 @@
-{"version_code":451214,"content":"
-<p>تحديث جديد V2.90</p>
+{
+  "Gold": {
+    "update_code": "1",
+    "reminder_time": "1",
+    "update_version": "V5.15",
+    "com.whatsapp1": "https://modsgold.com/2018/10/KingWA.html",
+    "com.whatsapp2": "https://modsgold.com/2018/10/KingWA.html",
+    "com.whatsapp3": "https://modsgold.com/2018/10/KingWA.html",
+    "com.whatsapp": "https://modsgold.com/2018/10/KingWA.html",
+    "update_message": "
+<p>تحديث جديد V5.20</p>
 
 <li> التحديث لنسخة الماركت 2.19.150</li>
 <li> نسخة ضد الحظر (في حال تم حظر رقمك في وقت سابق يجب عمل نسخة احتياطية للدردشات ثم حذف الواتساب وتثبيته من جديد)</li>
@@ -39,6 +48,6 @@
 <li> [New] Emojis</li>
 <li> [ALERT] Anti-Delete for Messages and Status by default (turn off if you want).</li>
 <li> Many Other Fixes</li>
-
-","url":"https://www.modsgold.com/2018/10/KingWA.html"
+"
+    }
 }
