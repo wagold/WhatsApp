@@ -1,8 +1,8 @@
 {
   "Gold": {
-    "update_code": "0",
+    "update_code": "1",
     "reminder_time": "1",
-    "update_version": "V5.10",
+    "update_version": "V5.15",
     "com.whatsapp1": "https://modsgold.com/2018/10/KingWA.html",
     "com.whatsapp2": "https://modsgold.com/2018/10/KingWA.html",
     "com.whatsapp3": "https://modsgold.com/2018/10/KingWA.html",
